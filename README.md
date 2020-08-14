@@ -1,1 +1,1 @@
-# grbcut:foreground segmentation and extraction
+# grabcut:foreground segmentation and extraction
